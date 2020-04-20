@@ -2,4 +2,4 @@ Una prueba para saber Git
 
 Vamo allá
 
-Tengo 35 años y estoy aprendiendo Git y GitHub
+Tengo 35 años y estoy aprendiendo Git y GitHub, para ser mejor desarrollador
