@@ -1,5 +1,5 @@
-Una prueba para saber Git
+Una prueba para aprender Git
 
 Vamo allá
 
-Tengo 35 años y estoy aprendiendo Git y GitHub, para ser mejor desarrollador
+Tengo reunión importante de Tecnico
