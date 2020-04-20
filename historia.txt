@@ -1,4 +1,4 @@
-Una prueba para aprender Git
+Una prueba para saber Git
 
 Vamo allá
 
