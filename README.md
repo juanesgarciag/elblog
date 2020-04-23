@@ -11,5 +11,6 @@ El tremendo blog del  curso de git y github
 - Varios temas en general
 - Creado por el increible Juanes
 - Seguimos con los textos sin sentido
+- Algo con sentido aqui?
 
 Al final no escribí todo por que no lo tengo en la memoria, **tengo problemas de memoria** *LOL*  seguimos así hasta que logremos juntar un poco mas de texto para que no se vea muy pobre.
